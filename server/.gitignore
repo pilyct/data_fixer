@@ -1,0 +1,14 @@
+# Sensitive info
+data-fixer-venv
+.env
+
+# Ignore SQLite database files
+instance/
+*.sqlite3
+*.db
+
+
+# Cache and unnecessary files
+.vscode
+__pycache__
+*.csv
