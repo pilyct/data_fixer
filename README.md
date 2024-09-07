@@ -2,6 +2,21 @@
 
 **Data Fixer** is a web application that automatically cleans CSV files by removing missing values. It's designed to be simple yet effective, allowing users to upload a CSV file, clean the data, and download the cleaned CSV file.
 
+<p align="center">
+  <img src="./client/public/pic1.png?raw=true" width="300" height="420">
+  <img src="./client/public/pic2.png?raw=true" width="300" height="420">
+</p>
+
+<p align="center">
+  <img src="./client/public/pic3.png?raw=true" width="500" height="350">
+</p>
+
+
+<p align="center">
+  <img src="./client/public/pic4.png?raw=true" width="400" height="450">
+  <img src="./client/public/pic5.png?raw=true" width="400" height="450">
+</p>
+
 ## Features
 
 - **CSV Upload**: Upload a CSV file from your computer.
